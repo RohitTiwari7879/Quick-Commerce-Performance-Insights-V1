@@ -1,8 +1,11 @@
 # Quick Commerce Performance Insights - Volume 1 (Minor Project) 📦📊
 
 ## Dashboard Preview
+### Customer
 ![Dashboard Screenshot](Images/Customer.png)
+### Operationals
 ![Dashboard Screenshot](Images/Operationals.png)
+### Strategy
 ![Dashboard Screenshot](Images/Strategy.png)
 
 ## 📌 Project Overview
