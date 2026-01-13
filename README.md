@@ -1,40 +1,23 @@
-# Quick-Commerce-Performance-Insights-V1
-"Descriptive Analysis of Quick Commerce deliveries in Gurugram Sector 45 using Power BI."
+# Quick Commerce Performance Insights - Volume 1 (Minor Project) 📦📊
 
-📊 Quick Commerce Performance Insights - Volume 1 (Minor Project)
-📌 Project Overview
-This project is a baseline descriptive analysis of the Quick Commerce delivery model (inspired by Blinkit and Zepto) in Gurugram. As an MCA graduate (2025) from ITM University, I developed this dashboard to bridge the gap between high-speed delivery promises and operational data reality.
+## 📌 Project Overview
+This project focuses on **Descriptive Analytics** for a Quick Commerce business model (similar to Blinkit, Zepto, and Instamart). The goal was to analyze 1,000+ delivery transactions in **Gurugram** to monitor operational efficiency and customer satisfaction.
 
-🖼️ Dashboard Preview
-(Note: Replace 'your_screenshot_name.png' with the actual name of your image file in the Images folder)
+## 🚀 Key Features
+- **Hyper-local Tracking:** Detailed performance analysis for specific zones like **Sector 45**, Cyber Hub, and Sohna Road.
+- **Operational KPIs:** Monitoring of Average Delivery Time, Order Accuracy (POR%), and Revenue trends.
+- **Customer Sentiment Analysis:** Integration of star ratings and a **Word Cloud** to identify common customer pain points.
+- **Interactive Filters:** Dynamic slicers for Order Status (Delivered, Cancelled, Refunded) and Area.
 
-❓ The Problem Statement
-In the 10-minute delivery industry, every second counts. The challenge was to analyze 1,000+ delivery transactions to identify why certain areas, specifically Sector 45, were experiencing higher latency during peak hours.
+## 🛠️ Tech Stack
+- **Tool:** Power BI Desktop
+- **Data Source:** Microsoft Excel (Cleaned & Structured)
+- **Key Skills:** Data Visualization, KPI Benchmarking, Descriptive Reporting.
 
-📈 Key Performance Indicators (KPIs)
-Average Delivery Time: Monitored the average time from order placement to doorstep.
+## 📈 Dashboard Highlights
+- Identified that **Sector 45** had the highest concentration of late deliveries during evening peaks.
+- Discovered a direct correlation between delivery latency and a 15% drop in average ratings.
 
-Order Accuracy (POR%): Tracked the percentage of perfect orders delivered without errors.
-
-Sector 45 Trends: Identified hyper-local bottlenecks where traffic and store packing times were causing delays.
-
-Revenue Pulse: Area-wise revenue distribution to identify high-value zones.
-
-🛠️ Tech Stack & Skills
-Visualization: Power BI Desktop
-
-Data Source: Microsoft Excel (Cleaned & Structured)
-
-Skills: Data Modeling, Descriptive Analytics, Sentiment Mapping (Word Clouds).
-
-💡 Key Insights
-Latency Correlation: Found that a 5-minute increase in delivery time led to a 15% drop in customer ratings.
-
-Zone Performance: Sector 45 emerged as a high-revenue zone but required better rider allocation during "Dinner Peaks."
-
-🚀 Future Roadmap (Volume 2)
-This Minor Project (v1.0) is the foundation for my upcoming Major Project (v2.0), which will integrate:
-
-SQL ETL Pipeline for cleaning 10,000+ rows of dirty data.
-
-Python Scripts for automated data sabotage simulation and processing.
+## 📂 How to View
+1. Download the `.pbix` file from this repository.
+2. Open with Power BI Desktop to interact with the live dashboard.
