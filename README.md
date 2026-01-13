@@ -1,5 +1,10 @@
 # Quick Commerce Performance Insights - Volume 1 (Minor Project) 📦📊
 
+## Dashboard Preview
+![Dashboard Screenshot](Images/Customer.png)
+![Dashboard Screenshot](Images/Operationals.png)
+![Dashboard Screenshot](Images/Strategy.png)
+
 ## 📌 Project Overview
 This project focuses on **Descriptive Analytics** for a Quick Commerce business model (similar to Blinkit, Zepto, and Instamart). The goal was to analyze 1,000+ delivery transactions in **Gurugram** to monitor operational efficiency and customer satisfaction.
 
