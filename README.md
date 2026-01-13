@@ -1,6 +1,8 @@
 # Quick Commerce Performance Insights - Volume 1 (Minor Project) 📦📊
 
 ## Dashboard Preview
+### Link 
+[Live Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNTYyNzkxMjktY2Q0My00ZjVmLWI5ZDYtZTFjNTIyNWQxNThjIiwidCI6IjgzY2U2OTI0LTViZjctNDE3ZS05YWZjLWMxOWQ4YjZkYzAwOCJ9)
 ### Customer
 ![Dashboard Screenshot](Images/Customer.png)
 ### Operationals
