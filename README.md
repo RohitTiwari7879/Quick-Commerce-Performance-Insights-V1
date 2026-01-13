@@ -1,5 +1,6 @@
 # Quick-Commerce-Performance-Insights-V1
 "Descriptive Analysis of Quick Commerce deliveries in Gurugram Sector 45 using Power BI."
+
 📊 Quick Commerce Performance Insights - Volume 1 (Minor Project)
 📌 Project Overview
 This project is a baseline descriptive analysis of the Quick Commerce delivery model (inspired by Blinkit and Zepto) in Gurugram. As an MCA graduate (2025) from ITM University, I developed this dashboard to bridge the gap between high-speed delivery promises and operational data reality.
